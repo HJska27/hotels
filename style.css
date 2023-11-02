@@ -6,7 +6,9 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-color: black;
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/23/16/a-dinosaur-on-nature-frame-vector-23972316.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0rem;
     overflow: hidden;
 }
